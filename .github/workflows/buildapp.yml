@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube ipa"
+        description: "https://filebin.net/blv8pq2gemtmdsiz"
         default: ""
         required: true
         type: string
